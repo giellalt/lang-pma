@@ -1,8 +1,16 @@
-!! Nouns
+!! # Noun stems
 !  -----
-!! Nouns in the Paamese language are things.
+!! Only a handful of words so far.
 
 LEXICON Nouns
-noun    Cases   ;
+!! LEXICON @LEXNAME@
+vatu inal "head" ; !!≈ * @CODE@ 
+vakili al "canoe" ; !!≈ * @CODE@ 
+pi inal "marble" ; !!≈ * @CODE@ 
+letau inal "woman" ; !!≈ * @CODE@ 
+lohon inal "child" ; !!≈ * @CODE@ 
+
+
+
 
 ! vim: set ft=xfst-lexc:

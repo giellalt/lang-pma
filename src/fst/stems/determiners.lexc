@@ -1,0 +1,11 @@
+LEXICON dettag
++Det: # ;
+
+LEXICON Determiners
+sav  dettag " another (sg)" ;
+savosav  dettag " other (non sg)" ;
+tetāi  dettag " any; koa(n), some" ;
+tei  dettag " some of it/them" ;
+haulu  dettag " many/much" ;
+musav  dettag " many/much (archaic)" ;
+

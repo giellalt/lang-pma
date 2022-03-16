@@ -1,15 +1,42 @@
-!! Noun inflection
+!! # Noun inflection
 !  ---------------
-!! The Paamese language nouns inflect in cases.
+!! So far only px suffixes have been added.
+!! The nouns are divided by alienability, but so far both 
+!! noun types point to the same **px** lexicon.
 
 LEXICON Cases
- +N+Sg+nom:0   #     ;
- +N+Pl+nom:i   #     ;
- +N+Sg+loc:as  #     ;
- +N+Pl+loc:ias #     ;
- +N+Sg+acc:at  #     ;
- +N+Pl+acc:iat #     ;
-         #:0   Nouns ;
+!! LEXICON @LEXNAME@ is a dummy lexicon.
+# ;
+
+LEXICON inal
+!! LEXICON @LEXNAME@ is for inalienable nouns (head, hand, ...)
++N: px ;
+
+LEXICON al
+!! LEXICON @LEXNAME@ is for alienable nouns (all other words)
++N: px ;
+
+LEXICON px
+!! LEXICON @LEXNAME@ gives the suffixes from the Wikipedia article.
+# ; ! absolutive
++PxSg1+Excl:%>k # ;
++PxSg1+Incl:%>k # ;
++PxSg2:%>m # ;
++PxSg3:%>n # ;
++PxDu1+Excl:%>mal # ;
++PxDu1+Incl:%>ralu # ;
++PxDu2:%>mil # ;
++PxDu3:%>ialu # ;
++PxPauc1+Excl:%>maitel # ;
++PxPauc1+Incl:%>ratel # ;
++PxPauc2:%>mitel # ;
++PxPauc3:%>iatel # ;
++PxPl1+Excl:%>mai # ;
++PxPl1+Incl:%>r # ;
++PxPl2:%>mi # ;
++PxPl3:%>i # ;
+
+
 
 ! vim: set ft=xfst-lexc:
 

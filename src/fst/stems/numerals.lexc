@@ -2,7 +2,28 @@
 !  --------
 !! Numerals in the Paamese language are numbers.
 
+LEXICON numtag 
++Num: # ;
+
+LEXICON ordtag 
++Num+Ord: # ;
+
 LEXICON Numerals
-numeral    Cases   ;
+tai  numtag ;	  ! 1
+elu  numtag ;	  ! 2
+etel  numtag ;	  ! 3
+ehat  numtag ;	  ! 4
+elim  numtag ;	  ! 5
+ahetai  numtag ;  ! 6
+oulu  numtag ;	  ! 7
+outel  numtag ;	  ! 8
+ouhat  numtag ;	  ! 9
+halualim numtag ; ! 10
+
+
+elueni ordtag ;	 ! 2.
+eteluni ordtag ; ! 3.
+ehatini ordtag ; ! 4.
+elimeni ordtag ; ! 5.
 
 ! vim: set ft=xfst-lexc:

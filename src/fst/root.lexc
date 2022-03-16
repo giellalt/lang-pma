@@ -13,9 +13,9 @@
 ! giellatekno@uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-! !!            !!!Paamese morphological analyser                      !
+!!      # Paamese morphological analyser                      
 ! ========================================================================== !
-!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Paamese LANGUAGE.
+!! INTRODUCTION TO THE MORPHOLOGICAL ANALYSER OF Paamese LANGUAGE.
  
 
 Multichar_Symbols  !!≈ # Definitions for @CODE@
@@ -38,8 +38,11 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Use/-Spell 
 
 !! The nominals are inflected in the following Case and Number
- +Sg +Du +Pl
+ +Sg +Du +Pl +Pauc  !!≈ @CODE@ note the paucal.
  +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
+
+!! Inclusivity
++Incl +Excl !!≈ @CODE@ for inclusive and exclusive pronouns.
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
@@ -137,13 +140,14 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 LEXICON Root
 !! The word forms in Paamese language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0   Nouns       ;
-0   Verbs       ;
-0   Adjectives  ;
-0   Pronouns    ;
-0   Numerals    ;
-0   Prefixes    ;
-    Punctuation ;
-    Symbols     ;
+ Nouns       ;
+ Verbs       ;
+ Adjectives  ;
+ Determiners ;
+ Pronouns    ;
+ Numerals    ;
+ Prefixes    ;
+ Punctuation ;
+ Symbols     ;
 
 ! vim: set ft=xfst-lexc:

@@ -1,4 +1,4 @@
-# Paamese documentation
+# Paamese (Paama) documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-pma)](https://github.com/giellalt/lang-pma/blob/main/LICENSE)
@@ -10,6 +10,7 @@ This page documents the work on the **Paamese language model**.
 # Project documentation
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+* [Paamese language article on English Wikipedia](https://en.wikipedia.org/wiki/Paamese_language)
 
 # In-source documentation
 
