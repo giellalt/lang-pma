@@ -113,6 +113,9 @@ The comparative forms are:
 Numerals are classified under:
 Verb moods are:
 Verb personal forms are:
+
+prefixes to be looked into
+
 Other verb forms are
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -184,11 +187,11 @@ Nothing done so far.
 Only a handful of words so far.
 
 LEXICON Nouns
-* vatu inal "head" ; 
+* vatin:vatu inal "head" ; 
 * vakili al "canoe" ; 
-* pi inal "marble" ; 
+* pi al "marble" ; 
 * letau inal "woman" ; 
-* lohon inal "child" ; 
+* lohon:loho inal "child" ; 
 
 * * *
 

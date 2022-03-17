@@ -26,6 +26,9 @@ The comparative forms are:
 Numerals are classified under:
 Verb moods are:
 Verb personal forms are:
+
+prefixes to be looked into
+
 Other verb forms are
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
