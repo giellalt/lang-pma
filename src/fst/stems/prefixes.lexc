@@ -3,8 +3,21 @@
 !! Prefixes in the Paamese language are bound to beginning of other words.
 
 LEXICON Prefixes
-nounprefix-     Nouns   ;
-verbprefix-     Verbs   ;
+Sg1+Excl+:na%> Mood ;
+Sg1+Incl+:na%> Mood ;
+Sg2+:ko%> Mood ;
+Sg3+: Mood ;
+
+Du1+Excl+:malu%> Mood ;
+Du1+Incl+:lo%> Mood ;
+Du2+:ko%> Mood ;
+Du3+: Mood ;
+
+LEXICON Mood
+Real+: Verbs ;
+Imm+:va%> Verbs ;
+Pot+:na%> Verbs ;
+
 
 
 ! vim: set ft=xfst-lexc:

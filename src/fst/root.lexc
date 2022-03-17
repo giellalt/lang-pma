@@ -39,7 +39,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl +Pauc  !!≈ @CODE@ note the paucal.
- +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
+ +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh +Par
 
 !! Inclusivity
 +Incl +Excl !!≈ @CODE@ for inclusive and exclusive pronouns.
@@ -55,6 +55,11 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb personal forms are:
  +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
+
+!! prefixes to be looked into
+  Sg1+ Sg2+ Sg3+ Du1+ Du2+ Du3+ Pl1+ Pl2+ Pl3+
+  Real+ Imm+ Pot+
+  
 !! Other verb forms are
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
@@ -98,6 +103,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! source and target part-of-speech.
  +V→N +V→V +V→A
  +Der/xxx
+ +Der/N
 
 
 !! Morphophonology

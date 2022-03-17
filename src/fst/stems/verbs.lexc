@@ -3,6 +3,7 @@
 !! Verbs in the Paamese language are actions.
 
 LEXICON Verbs
-verb    Persons   ;
+va v3 "go" ;
+kilea:kile v3 "know, understand" ;
 
 ! vim: set ft=xfst-lexc:

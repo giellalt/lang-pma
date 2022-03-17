@@ -2,6 +2,21 @@
 !  ---------------
 !! Nothing has been done so far.
 
+LEXICON v3
++V:a v3_X  ;
++V:a v3_Y  ;
++V:aa v3_Z  ;
+
+LEXICON v3_X
+# ;
+
+LEXICON v3_Y
++Sg3:%>e # ;
+
+LEXICON v3_Z
++Par:%>e # ;
++Der/N:%>ene inal ;
+
 LEXICON Persons
 +V+1sg:en   #   ;
 +V+2sg:et   #   ;

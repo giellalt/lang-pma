@@ -4,11 +4,14 @@
 
 LEXICON Nouns
 !! LEXICON @LEXNAME@
-vatu inal "head" ; !!≈ * @CODE@ 
+vatin:vatu inal "head" ; !!≈ * @CODE@ 
 vakili al "canoe" ; !!≈ * @CODE@ 
-pi inal "marble" ; !!≈ * @CODE@ 
+pi al "marble" ; !!≈ * @CODE@ 
 letau inal "woman" ; !!≈ * @CODE@ 
-lohon inal "child" ; !!≈ * @CODE@ 
+lohon:loho inal "child" ; !!≈ * @CODE@ 
+ona inal "possession" ;
+natin:natu inal "child" ;
+
 
 
 
