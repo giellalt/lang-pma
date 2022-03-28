@@ -2,7 +2,7 @@ name = "Paamese"
 version = "@SPELLERVERSION@"
 
 [macos]
-system_pkg_id = "no.divvun.MacDivvun."
+system_pkg_id = "no.divvun.MacDivvun.pma"
 
 [windows]
 system_product_code = "{REPLACE_WITH_REAL_SYSTEM_PROD_CODE}_is1"
