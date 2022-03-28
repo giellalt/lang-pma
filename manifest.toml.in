@@ -5,4 +5,4 @@ version = "@SPELLERVERSION@"
 system_pkg_id = "no.divvun.MacDivvun.pma"
 
 [windows]
-system_product_code = "{REPLACE_WITH_REAL_SYSTEM_PROD_CODE}_is1"
+system_product_code = "{3D88E1AC-37C5-48A4-BFF0-583745CA04F6}_is1"
