@@ -21,7 +21,7 @@ LEXICON px
 +PxSg1+Excl:%>k # ;
 +PxSg1+Incl:%>k # ;
 +PxSg2:%>m # ;
-+PxSg3:%>n # ;
++PxSg3:%>in # ;
 +PxDu1+Excl:%>mal # ;
 +PxDu1+Incl:%>ralu # ;
 +PxDu2:%>mil # ;
@@ -36,6 +36,7 @@ LEXICON px
 +PxPl3:%>i # ;
 
 
+! vatin+N+PxSg3 : vatu%>in
 
 ! vim: set ft=xfst-lexc:
 
