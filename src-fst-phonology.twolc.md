@@ -6,18 +6,7 @@
 
 ## Rule section
 
-**RULE: Delete e in final stems** =  for e-stems in the Px declension.
-
-* *primus%>s*
-* *primus00*
-
-*  examples:*
-
-*  examples:*
-
-*  examples:*
-
-*  examples:*
+**RULE: Delete affix initial -i-** =  for e- and o- stems in the Px declension.
 
 * * *
 

@@ -66,18 +66,7 @@ Nothing has been done so far.
 
 ## Rule section
 
-**RULE: Delete e in final stems** =  for e-stems in the Px declension.
-
-* *primus%>s*
-* *primus00*
-
-*  examples:*
-
-*  examples:*
-
-*  examples:*
-
-*  examples:*
+**RULE: Delete affix initial -i-** =  for e- and o- stems in the Px declension.
 
 * * *
 
@@ -188,10 +177,11 @@ Only a handful of words so far.
 
 LEXICON Nouns
 * vatin:vatu inal "head" ; 
+* letain:letau inal "woman" ; 
+* lohon:loho inal "child" ; 
+
 * vakili al "canoe" ; 
 * pi al "marble" ; 
-* letau inal "woman" ; 
-* lohon:loho inal "child" ; 
 
 * * *
 

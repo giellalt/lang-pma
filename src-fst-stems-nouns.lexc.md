@@ -3,10 +3,11 @@ Only a handful of words so far.
 
 LEXICON Nouns
 * vatin:vatu inal "head" ; 
+* letain:letau inal "woman" ; 
+* lohon:loho inal "child" ; 
+
 * vakili al "canoe" ; 
 * pi al "marble" ; 
-* letau inal "woman" ; 
-* lohon:loho inal "child" ; 
 
 * * *
 
