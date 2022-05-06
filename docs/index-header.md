@@ -11,7 +11,7 @@ This page documents the work on the **Paamese language model**.
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
 * [Paamese language article on English Wikipedia](https://en.wikipedia.org/wiki/Paamese_language)
-
+* [Linguistics and stuff](PaamaLinguisics.html)
 
 # In-source documentation
 
