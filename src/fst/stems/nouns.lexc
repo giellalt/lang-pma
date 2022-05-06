@@ -5,15 +5,17 @@
 LEXICON Nouns
 !! LEXICON @LEXNAME@
 vatin:vatu inal "head" ; !!≈ * @CODE@ 
-vakili al "canoe" ; !!≈ * @CODE@ 
-pi al "marble" ; !!≈ * @CODE@ 
-letau inal "woman" ; !!≈ * @CODE@ 
+letain:letau inal "woman" ; !!≈ * @CODE@ 
 lohon:loho inal "child" ; !!≈ * @CODE@ 
 onen:ona inal "possession" ;
 natin:natu inal "child" ;
 
+vakili al "canoe" ; !!≈ * @CODE@ 
+pi al "marble" ; !!≈ * @CODE@ 
 
 
 
+! u + in > in # vatin
+! o + in > on # lohon
 
-! vim: set ft=xfst-lexc:
+
