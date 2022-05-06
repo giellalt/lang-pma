@@ -25,17 +25,8 @@ Sets
 !! ## Rule section
 Rules
 
-"Delete e in final stems"
-!! **RULE: @RULENAME@** =  for e-stems in the Px declension.
-i:0 <=> e %> _ ;
+"Delete affix initial -i-"
+!! **RULE: @RULENAME@** =  for e- and o- stems in the Px declension.
+i:0 <=> [ :e | :o ] %> _ ;
 
 
-
-!!€ primus%>s
-!!€ primus00
-
-!!€grís%>s
-!!€grís00
-
-!!$grís%>s
-!!$grís0s
