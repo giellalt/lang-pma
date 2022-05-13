@@ -5,4 +5,23 @@
 LEXICON Pronouns
 pronoun    Cases   ;
 
+Sg1: inau;
+Sg2: keik;
+Sg3: kei;
+Du1+Incl:ialu;
+Du1+Excl:komal;
+Du2:kamil;
+Du3:keilu;
+Pauc1+Incl:iatel;
+Pauc1+Excl:komaitel;
+Pauc2:kamitel;
+Pauc3:keitel;
+Pl1+Incl:ir;
+Pl1+Excl:komaitel;
+Pl2:kami;
+Pl3:keil;
+
+
+
+
 ! vim: set ft=xfst-lexc:

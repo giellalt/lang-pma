@@ -1,32 +1,93 @@
-!!   =============================================== 
+!   =============================================== 
 !! # The Paamese morphophonological/twolc rules file 
-!!   =============================================== 
+!   =============================================== 
 
 !! ## The Paamese letters, symbols and letter sets
 
-Alphabet
- a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
- á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç
- ā ē ī ō ū
+!! ### Alphabet and symbols
 
- A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
- Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
+Alphabet 
+ a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å !!≈ * @CODE@ 
+ á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç !!≈  @CODE@ 
+ ā ē ī ō ū.  !!≈ * @CODE@ 
 
- %> ;
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å  !!≈ * @CODE@ 
+ Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð   !!≈  @CODE@ 
 
+ %> %< ;   !!≈ * @CODE@ 
+
+
+!! ### Sets
 Sets
 
- Vow = a e i o u y æ ø å ā ē ī ō ū
-       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ;
- Cns = b c d f g h j k l m n p q r s t v w x z ;
+ Vow = a e i o u y æ ø å ā ē ī ō ū.  !!≈ * @CODE@ 
+       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ;  !!≈  @CODE@ 
+ Cns = b c d f g h j k l m n p q r s t v w x z ;  !!≈ * @CODE@ 
  
  
 
 !! ## Rule section
+
 Rules
 
 "Delete affix initial -i-"
 !! **RULE: @RULENAME@** =  for e- and o- stems in the Px declension.
 i:0 <=> [ :e | :o ] %> _ ;
 
+"i is backed to u before u over a morpheme boundary"
+!! **RULE:  @RULENAME@** 
+i:u <=> _ %> u ;
+
+!! * example: ni+uasi+e = nuuasie (1SG.dist.hit.3SG; I will hit him)
+!! * example: i+umo = ūmo (3PL.dist.work; they will work)
+!!€ ni>uasi>e
+!!€ nu>0asi>e
+!!€ i>umo
+!!€ u>umo
+
+"e is backed to o where there is a following u"
+!! **RULE:  @RULENAME@** = This rule applies only when the front vowel precedes the back vowel, and not when it follows the back vowel. This rule is stated without reference to any morpheme boundaries.
+e:o <=> _ %>  u ; !! We should consider %< instead of %> (for prefixes)
+
+!! * example: he+uasi+e --> houasie 3SG.dist.hit.3SG; he will hit him)
+!! * example: he+usili+e --> housilie (3SG.dist.follow.3SG; he will follow him)
+!!€ he>uasi>e
+!!€ ho>uasi>e
+
+"Vowel deletion in stem medial position"
+!! **RULE:  @RULENAME@** = works in stem medial position, a vowel is deleted between an identical vowel and any other vowel, either preceding or following it
+Vx:0 <=> :Vx %> _ Vow ;
+	where Vx in ( a e i o u ) ;
+
+!!€ ni>uasi>e
+!!€ nu>0asi>e
+!! * example: ni+uasi+e --> nūasie --> nuasi (1SG.dist.hit.3SG; I will hit him)
+
+"e raising"
+!! **RULE:  @RULENAME@** = e raises to i between the vowels o and a on the one hand, and the vowels a and a on the other.
+e:i <=> [o|a] [%>|#] _ a ;
+
+!!€ lenga>ealo
+!!€ lenga>ialo
+!!€ lango>ealo
+!!€ lango>ialo
+
+
+"e deletion"
+!! **RULE:  @RULENAME@** = e is deleted whenever it occurs in the sequence iea
+e:0 <=> i %> _ [Vow|Cns] ;
+
+!!€ vati>ealo
+!!€ vati>0alo
+
+
+! "Word final vowel deletion"
+! !! **RULE:  @RULENAME@**  all word final vowels in utterance final position are desyllabified following consonants, and also following vowels with the opposite marking for height. 
+! 
+! "word final vowels in utterance medial position"
+! !! **RULE:  @RULENAME@**  word final vowels in utterance medial position are deleted in the same sets of environments.
+! 
+! !! * example: ahisi --> ahis
+! 
+! 
 

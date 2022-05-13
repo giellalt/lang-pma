@@ -1,22 +1,73 @@
-!! Prefixes
+!! # Prefixes
 !  --------
 !! Prefixes in the Paamese language are bound to beginning of other words.
 
-LEXICON Prefixes
-Sg1+Excl+:na%> Mood ;
-Sg1+Incl+:na%> Mood ;
-Sg2+:ko%> Mood ;
-Sg3+: Mood ;
 
-Du1+Excl+:malu%> Mood ;
+!! ## Verbal prefixes
+
+LEXICON Prefixes
+
+
+Sg1+:na%> Mood ;
+Sg2+:ko%> Mood ;
+Sg3+:0%> Mood ;
 Du1+Incl+:lo%> Mood ;
+Du1+Excl+:malu%> Mood ;
 Du2+:ko%> Mood ;
-Du3+: Mood ;
+Du3+:lu%> Mood ;
+Pauc1+Incl+:to%> Mood;
+Pauc1+Excl+:matu%> Mood;
+Pauc2+:mutu%> Mood;
+Pauc3+:telu%> Mood;
+Pl1+Incl+:ro%> Mood;
+Pl1+Excl:ma%> Mood;
+Pl2+:mu%> Mood;
+Pl3+:a%> Mood;
+
+
+!! Below are subject-mood prefixes so I sent them to Verbs (not Mood) (Simon)
+!! I am not sure why we have ni+ at the beginning? (Simon)
+
+ni+Sg1+Distal+:%>ni %> Verbs ;
+ni+Sg2+Distal+:%>ki %> Verbs ;
+ni+Sg3+Distal+:%>he %> Verbs ;
+ni+Du1+Incl+Distal+:%>lehe %> Verbs ;
+ni+Du1+Excl+Distal+:%>male %> Verbs ;
+ni+Du2+Distal:%>mele%> Verbs;
+ni+Du3+Distal+:%>lehe%> Verbs;
+ni+Pauc1+Incl+Distal:%>tehe %> Verbs;
+ni+Pauc1+Excl+Distal:%>mate %> Verbs;
+ni+Pauc2+Distal:%>mete %> Verbs;
+ni+Pauc3+Distal:%>tele %> Verbs;
+ni+Pl1+Incl+Distal:%>rehe %> Verbs;
+ni+Pl1+Excl+Distal:%>mahe %> Verbs;
+ni+Pl2+Distal:%>mehe %> Verbs;
+ni+Pl3+Distal:%>i %> Verbs;
+
+ni+Sg1+Imp+:%>0 %> Verbs ;
+ni+Sg2+Imp+:%>0 %> Verbs ;
+ni+Sg3+Imp+:%>0 %> Verbs ;
+ni+Du1+Incl+Imp+:%>lu %> Verbs ;
+ni+Du1+Excl+Imp+:%>lu %> Verbs ;
+ni+Du2+Imp:%>lu%> Verbs;
+ni+Du3+Imp+:%>lu%> Verbs;
+ni+Pauc1+Incl+Imp:%>telu %> Verbs;
+ni+Pauc1+Excl+Imp:%>telu %> Verbs;
+ni+Pauc2+Imp:%>telu %> Verbs;
+ni+Pauc3+Imp:%>telu %> Verbs;
+ni+Pl1+Incl+Imp:%>alu %> Verbs;
+ni+Pl1+Excl+Imp:%>alu %> Verbs;
+ni+Pl2+Imp:%>alu %> Verbs;
+ni+Pl3+Imp:%>alu %> Verbs;
+
 
 LEXICON Mood
-Real+: Verbs ;
+Real+0%>: Verbs ;
 Imm+:va%> Verbs ;
 Pot+:na%> Verbs ;
+Pro+:na%> Verbs;
+Dist+
+Imp+
 
 
 
