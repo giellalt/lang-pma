@@ -15,6 +15,7 @@ LEXICON inal
 LEXICON al
 !! LEXICON @LEXNAME@ is for alienable nouns (all other words)
 +N: # ;
++N: R ;
 
 LEXICON px
 !! LEXICON @LEXNAME@ gives the suffixes from the Wikipedia article.
