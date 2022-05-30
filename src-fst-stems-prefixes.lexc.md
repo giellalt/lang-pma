@@ -1,5 +1,10 @@
-Prefixes
+# Prefixes
 Prefixes in the Paamese language are bound to beginning of other words.
+
+## Verbal prefixes
+
+Below are subject-mood prefixes so I sent them to Verbs (not Mood) (Simon)
+I am not sure why we have ni+ at the beginning? (Simon)
 
 * * *
 
