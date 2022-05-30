@@ -3,23 +3,22 @@
 !! Pronouns in the Paamese language are references to things.
 
 LEXICON Pronouns
-pronoun    Cases   ;
 
-Sg1: inau;
-Sg2: keik;
-Sg3: kei;
-Du1+Incl:ialu;
-Du1+Excl:komal;
-Du2:kamil;
-Du3:keilu;
-Pauc1+Incl:iatel;
-Pauc1+Excl:komaitel;
-Pauc2:kamitel;
-Pauc3:keitel;
-Pl1+Incl:ir;
-Pl1+Excl:komaitel;
-Pl2:kami;
-Pl3:keil;
+inau+Pron+Sg1:inau #  ;
+keik+Sg2:keik # ;
+kei+Sg3:kei # ;
+ialu+Du1+Incl:ialu # ;
+komal+Du1+Excl:komal # ;
+kamil+Du2:kamil # ;
+keilu+Du3:keilu # ;
+iatel+Pauc1+Incl:iatel # ;
+komaitel+Pauc1+Excl:komaitel # ;
+kamitel+Pauc2:kamitel # ;
+keitel+Pauc3:keitel # ;
+ir+Pl1+Incl:ir # ;
+komaitel+Pl1+Excl:komaitel # ;
+kami+Pl2:kami # ;
+keil+Pl3:keil # ;
 
 
 
