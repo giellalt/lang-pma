@@ -8,6 +8,10 @@ LEXICON Cases
 !! LEXICON @LEXNAME@ is a dummy lexicon.
 # ;
 
+LEXICON nouns
+!! LEXICON @LEXNAME@ is for unclassified nouns awaiting a decision on *al* vs *inal*.
+al ;
+
 LEXICON inal
 !! LEXICON @LEXNAME@ is for inalienable nouns (head, hand, ...)
 +N: px ;

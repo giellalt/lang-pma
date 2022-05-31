@@ -34,6 +34,9 @@ Rules
 !! **RULE: @RULENAME@** =  for e- and o- stems in the Px declension.
 i:0 <=> [ :e | :o ] %> _ ;
 
+"Front a stems to e before i suffixes"
+a:e <=> _ %> i: ;
+
 "i is backed to u before u over a morpheme boundary"
 !! **RULE:  @RULENAME@** 
 i:u <=> _ %> u ;

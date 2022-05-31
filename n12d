@@ -1,38 +1,10 @@
-!! # Noun stems
-!  -----
-!! Only a handful of words so far.
-
-LEXICON Nouns
-!! LEXICON @LEXNAME@
-vatin:vatu inal "head" ; !!≈ * @CODE@ 
-letain:letau inal "woman" ; !!≈ * @CODE@ 
-lohon:loho inal "child" ; !!≈ * @CODE@ 
-natin:natu inal "child" ;
-
-vakili al "canoe" ; !!≈ * @CODE@ 
-pi al "marble" ; !!≈ * @CODE@ 
-
-lenga:lenga al "husk" ;
-ealo:ealo al "some other tree" ;
-
-vati:vatte al "tree" ;
-eau:eau al "knife" ;
-
-
-
-
-! u + in > in # vatin
-! o + in > on # lohon
-
-!! A long list of nouns to be revised.
-
 abennaCu:abennaCu nouns "kind of yam [abermatuu]" ;
 adaku:adaku nouns "kind of sweet potato [adakue]" ;
 adesa:adesa nouns "kind of breadfruit [adesaa]" ;
 aekl:aekl nouns "(n) pudding (especially referring" ;
 aet:aet nouns "(n) flat place. Mulamun out Voum" ;
 aev:aev nouns "(n) Only in luhi aev, uhia aev," ;
-!00:00 nouns "garden. Synonym:karen. For" ;
+00:00 nouns "garden. Synonym:karen. For" ;
 ahai:ahai nouns "(n) 1. sprouting coconut. 2. edible" ;
 ahai:ahai nouns "stingray (Family Dasyatididae)" ;
 ahaI:ahaI nouns "(s) sprouting coconut. In north:" ;
@@ -377,7 +349,7 @@ kamiong:kamiong nouns "truck. Synonym:leto." ;
 kapine:kapine nouns "toilet. Synonym:kolosis." ;
 karil:karil nouns "striped surgeon fish (Acanthurus" ;
 karien:karien nouns "(s) rudeness, cheekiness," ;
-!karl<ar:karl<ar nouns "(n) coconut grater. In south:" ;
+karl<ar:karl<ar nouns "(n) coconut grater. In south:" ;
 kaset:kaset nouns "1 . music cassette. 2. video tape." ;
 karedel:karedel nouns "banana passionfruit (Passiflora" ;
 karedela:karedela nouns "banana passionfruit" ;
@@ -473,7 +445,7 @@ Made:Made nouns "Monday. Bislama:Mande" ;
 madei:madei nouns "(n) small fish that lie on rocks in" ;
 madeka:madeka nouns "(s) 1 . butterfly. 2. moth." ;
 luvosien:luvosien nouns "1 . trick, deception. 2. lie" ;
-mae:mae nouns "spell to ruin something. Ehon" ;
+mae!:mae! nouns "spell to ruin something. Ehon" ;
 maeh:maeh nouns "(n) 1 . twins. 2. double nut inside" ;
 maem:maem nouns "(n) moonlight. In south:malem" ;
 mago:mago nouns "mango. Bislama:mango" ;
@@ -733,7 +705,7 @@ rame:rame nouns "(n) white ants. In south:ramol" ;
 ramol:ramol nouns "(s) white ants. In north:rame" ;
 ramusil:ramusil nouns "ladle [ramusii]" ;
 ratio:ratio nouns "radio. Synonym:eisesel." ;
-!ratoal<:ratoal< nouns "kind of wild lychee. Derived" ;
+ratoal<:ratoal< nouns "kind of wild lychee. Derived" ;
 ravai:ravai nouns "(n) kind of wild lychee. In south:" ;
 raveta:raveta nouns "kind of wild lychee. Derived" ;
 ravobong:ravobong nouns "(n) kind of wild lychee with" ;
@@ -748,7 +720,7 @@ rengareng:rengareng nouns "calf of leg [renga-renge]" ;
 rerali:rerali nouns "kind of are tree [reralii]" ;
 reretakul:reretakul nouns "(n) kind of small brown or" ;
 rerou:rerou nouns "(n) wild nutmeg (Myristicafatua)" ;
-resa:resa nouns ;
+resa:resa [n]" ;
 !..eva:..eva nouns "river. Synonym:oai houIu." ;
 rtmatou:rtmatou nouns "(n) squeezed coconut milk. In" ;
 ling:ling nouns "ring. Bislama:ring [riingi]" ;

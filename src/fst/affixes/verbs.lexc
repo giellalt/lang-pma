@@ -17,15 +17,6 @@ LEXICON v3_Z
 +Par:%>e # ;
 +Der/N:%>ene inal ;
 
-LEXICON Persons
-+V+1sg:en   #   ;
-+V+2sg:et   #   ;
-+V+3sg:e    #   ;
-+V+1pl:ien  #   ;
-+V+2pl:iet  #   ;
-+V+3pl:iet  #   ;
-+V+inf:0    #   ;
-#:0   Nouns   ;
 
 ! vim: set ft=xfst-lexc:
 

@@ -4,23 +4,28 @@
 
 LEXICON Pronouns
 
-inau+Pron+Sg1:inau #  ;
-keik+Sg2:keik # ;
-kei+Sg3:kei # ;
-ialu+Du1+Incl:ialu # ;
-komal+Du1+Excl:komal # ;
-kamil+Du2:kamil # ;
-keilu+Du3:keilu # ;
+! Personal
+inau+Pron+Pers+Sg1:inau #  ;
+keik+Pron+Pers+Sg2:keik # ;
+kei+Pron+Pers+Sg3:kei # ;
+ialu+Pron+Pers+Du1+Incl:ialu # ;
+komal+Pron+Pers+Du1+Excl:komal # ;
+kamil+Pron+Pers+Du2:kamil # ;
+keilu+Pron+Pers+Du3:keilu # ;
 iatel+Pauc1+Incl:iatel # ;
 komaitel+Pauc1+Excl:komaitel # ;
 kamitel+Pauc2:kamitel # ;
 keitel+Pauc3:keitel # ;
-ir+Pl1+Incl:ir # ;
-komaitel+Pl1+Excl:komaitel # ;
-kami+Pl2:kami # ;
-keil+Pl3:keil # ;
+ir+Pron+Pers+Pl1+Incl:ir # ;
+komaitel+Pron+Pers+Pl1+Excl:komaitel # ;
+kami+Pron+Pers+Pl2:kami # ;
+keil+Pron+Pers+Pl3:keil # ;
 
-
+! Possessive
+onen+Pron+Poss:ona px ;
+emon+Pron+Poss:emo px ;
+esen+Pron+Poss:esa px ;
+aan+Pron+Poss:aa px ;
 
 
 ! vim: set ft=xfst-lexc:
