@@ -9,6 +9,8 @@ LEXICON Nouns
 * vakili al "canoe" ; 
 * pi al "marble" ; 
 
+A long list of nouns to be revised.
+
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/stems/nouns.lexc)</small>

@@ -10,7 +10,6 @@ language are presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
 The parts-of-speech are:
-
 The parts of speech are further split up into:
 
 The Usage extents are marked using following tags:
