@@ -38,8 +38,6 @@ Documentation
 
 Documentation can be found at:
 
-- [In source documentation generated with github
-   pages](https://gilellalt.github.io/lang-pma/)
 -   <https://giellalt.uit.no/lang/pmadoc/index.html>
 -   <https://giellalt.uit.no/index.html>
 
