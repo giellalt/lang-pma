@@ -38,7 +38,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/pmadoc/index.html>
+- [Language specific documentation](https://giellalt.github.io/lang-pma/)
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
