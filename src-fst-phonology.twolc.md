@@ -13,9 +13,8 @@
 
 ### Sets
 
-* Vow = a e i o u y æ ø å ā ē ī ō ū. 
- á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ; 
-* Cns = b c d f g h j k l m n p q r s t v w x z ; 
+ Vow = a e i o u ; 
+* Cns = b c d f g h j k l m n p q r s t v w x y z ; 
 
 ## Rule section
 
@@ -23,7 +22,7 @@
 
 **RULE: R realisation as consonant** = vora - Vopora
 
-**RULE: R realisation as consonant** = vora - vOpora
+**RULE: E realisation as vowel** = vora - vOpora
 
 **RULE: Initial stem consonant change** = vora - voPora
 
@@ -31,7 +30,10 @@
 * *vo0pora*
 
 * *RE+dora*
-* *do+rora*
+* *do0rora*
+
+* *RE+tora*
+* *to0tora*
 
 ## Suffix rules
 
