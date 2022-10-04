@@ -21,6 +21,10 @@ LEXICON al
 +N: # ;
 +N: R ;
 
+LEXICON al_redup
+# ;
+R ;
+
 LEXICON px
 !! LEXICON @LEXNAME@ gives the suffixes from the Wikipedia article.
 +PxSg1+Excl:%>k # ;

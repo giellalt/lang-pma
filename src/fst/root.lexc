@@ -44,6 +44,9 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Pauc1
 +PxPauc3
 
+!! Reduplication tags (to be revised with flags)
+Sg+ Pl+ N+ 
+
 !! Inclusivity
 +Incl +Excl !!≈ @CODE@ for inclusive and exclusive pronouns.
 

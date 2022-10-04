@@ -2,7 +2,25 @@
 !  -----
 !! Only a handful of words so far.
 
-LEXICON Nouns
+LEXICON Nouns ! This bipartition to be revised !!
+redup_tags ;
+ordinary_nouns ;
+
+LEXICON redup_tags
+N+Sg+: redup_cvc_nouns ;
+N+Pl+: redup_cvc ;
+
+LEXICON redup_cvc
+RE+ redup_cvc_nouns ; !the redup ones
+
+    
+
+LEXICON redup_cvc_nouns
+vora al_redup "noise" ; ! vopora
+dora al_redup "dummy" ; !dorora 
+
+LEXICON ordinary_nouns
+
 !! LEXICON @LEXNAME@
 vatin:vatu inal "head" ; !!≈ * @CODE@ 
 letain:letau inal "woman" ; !!≈ * @CODE@ 
