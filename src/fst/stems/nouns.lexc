@@ -11,7 +11,7 @@ N+Sg+: redup_cvc_nouns ;
 N+Pl+: redup_cvc ;
 
 LEXICON redup_cvc
-RE+ redup_cvc_nouns ; !the redup ones
+:RE+ redup_cvc_nouns ; !the redup ones
 
     
 

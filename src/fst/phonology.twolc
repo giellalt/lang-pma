@@ -21,9 +21,8 @@ Alphabet
 !! ### Sets
 Sets
 
- Vow = a e i o u y æ ø å ā ē ī ō ū.  !!≈ * @CODE@ 
-       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ;  !!≈  @CODE@ 
- Cns = b c d f g h j k l m n p q r s t v w x z ;  !!≈ * @CODE@ 
+ Vow = a e i o u ;  !!≈  @CODE@ 
+ Cns = b c d f g h j k l m n p q r s t v w x y z ;  !!≈ * @CODE@ 
 
  
 
@@ -35,10 +34,10 @@ Rules
 
 "R realisation as consonant"
 !! **RULE: @RULENAME@** = vora - Vopora
-R:CC <=> _ E: %+: CC ; 
+R:CC <=> _ E: %+: CC: ; 
       where CC in Cns ;
 
-"R realisation as consonant"
+"E realisation as vowel"
 !! **RULE: @RULENAME@** = vora - vOpora
 E:VV <=> _ %+: Cns: VV ;
      where VV in Vow ;
@@ -54,20 +53,24 @@ Cx:Cy <=> %+: _ ;
 !!€ vo0pora
 
 !!€ RE+dora
-!!€ do+rora
+!!€ do0rora
+
+!!€ RE+tora
+!!€ to0tora
 
 !! ## Suffix rules
 
 "Delete affix initial -i-"
 !! **RULE: @RULENAME@** =  for e- and o- stems in the Px declension.
-i:0 <=> [ :e | :o ] %> _ ;
+i:0 <=> [ :e | :o ] %> _  ;
+
+"i is backed to u before u over a morpheme boundary"
+!! **RULE:  @RULENAME@** 
+i:u <=> [:Vow|:Cns] _ %> u ;
 
 "Front a stems to e before i suffixes"
 a:e <=> _ %> i: ;
 
-"i is backed to u before u over a morpheme boundary"
-!! **RULE:  @RULENAME@** 
-i:u <=> _ %> u ;
 
 !! * example: ni+uasi+e = nuuasie (1SG.dist.hit.3SG; I will hit him)
 !! * example: i+umo = ūmo (3PL.dist.work; they will work)
