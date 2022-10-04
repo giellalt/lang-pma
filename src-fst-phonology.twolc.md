@@ -8,10 +8,8 @@
  á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç 
 * ā ē ī ō ū. 
 
-* A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å 
- Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð 
-
-* %> %< ; 
+* %> %< 
+* %+:0 for reduplication, see B&K p. 488
 
 ### Sets
 
@@ -20,6 +18,22 @@
 * Cns = b c d f g h j k l m n p q r s t v w x z ; 
 
 ## Rule section
+
+## Reduplication rules
+
+**RULE: R realisation as consonant** = vora - Vopora
+
+**RULE: R realisation as consonant** = vora - vOpora
+
+**RULE: Initial stem consonant change** = vora - voPora
+
+* *RE+vora*
+* *vo0pora*
+
+* *RE+dora*
+* *do+rora*
+
+## Suffix rules
 
 **RULE: Delete affix initial -i-** =  for e- and o- stems in the Px declension.
 

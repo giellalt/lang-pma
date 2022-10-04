@@ -17,6 +17,8 @@ The Usage extents are marked using following tags:
 The nominals are inflected in the following Case and Number
 +Sg +Du +Pl +Pauc note the paucal.
 
+Reduplication tags (to be revised with flags)
+
 Inclusivity
 +Incl +Excl for inclusive and exclusive pronouns.
 

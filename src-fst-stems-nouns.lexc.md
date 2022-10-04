@@ -1,7 +1,7 @@
 # Noun stems
 Only a handful of words so far.
 
-LEXICON Nouns
+LEXICON ordinary_nouns
 * vatin:vatu inal "head" ; 
 * letain:letau inal "woman" ; 
 * lohon:loho inal "child" ; 
