@@ -1,0 +1,6 @@
+
+LEXICON cc
++CC: # ;
+
+LEXICON Conjunctions
+ka cc "and, but" ;

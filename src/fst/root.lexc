@@ -160,7 +160,11 @@ LEXICON Root
  Nouns       ;
  Verbs       ;
  Adjectives  ;
+ Adverbs  ;
+ Conjunctions ;
+ Subjunctions ;
  Determiners ;
+ Prepositions ;
  Pronouns    ;
  Numerals    ;
  Prefixes    ;
