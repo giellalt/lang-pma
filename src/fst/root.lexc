@@ -163,7 +163,7 @@ LEXICON Root
  Nouns       ;
  Verbs       ;
  Adjectives  ;
- Adverbs  ;
+! Adverbs  ;
  Conjunctions ;
  Subjunctions ;
  Determiners ;
