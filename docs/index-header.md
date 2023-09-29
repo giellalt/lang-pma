@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-pma)](https://github.com/giellalt/lang-pma/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-pma)](https://github.com/giellalt/lang-pma/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-pma/main/badge.svg)](https://github.com/giellalt/lang-pma/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-pma/main/badge.svg)](https://github.com/giellalt/lang-pma/actions)
 
 This page documents the work on the **Paamese language model**. 
 
