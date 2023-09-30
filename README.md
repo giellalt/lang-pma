@@ -1,6 +1,7 @@
 The Paamese morphology and tools
 ==========================================
 
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-pma%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-pma)](https://github.com/giellalt/lang-pma/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-pma/main/badge.svg)](https://github.com/giellalt/lang-pma/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-pma)](https://github.com/giellalt/lang-pma/blob/main/LICENSE)
