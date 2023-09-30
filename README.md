@@ -2,7 +2,7 @@ The Paamese morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-pma)](https://github.com/giellalt/lang-pma/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-pma/main/badge.svg)](https://github.com/giellalt/lang-pma/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-pma/main/badge.svg)](https://github.com/giellalt/lang-pma/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-pma)](https://github.com/giellalt/lang-pma/blob/main/LICENSE)
 [![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-pma?platform=desktop&channel=nightly)
 [![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-pma?platform=mbile&channel=nightly)
