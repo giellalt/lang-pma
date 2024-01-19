@@ -2,7 +2,7 @@
 <hfstspeller dtdversion="1.0" hfstversion="3">
   <info>
     <locale></locale>
-    <title>Giellatekno/Divvun/UiT fst-based speller for Paamese</title>
+    <title>Paamese</title>
     <description>This is an fst-based speller for Paamese. It is based
     on the normative subset of the morphological analyser for Paamese.
     The source code can be found at:
