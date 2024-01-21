@@ -8,7 +8,7 @@ I am not sure why we have ni+ at the beginning? (Simon)
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/stems/prefixes.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
 

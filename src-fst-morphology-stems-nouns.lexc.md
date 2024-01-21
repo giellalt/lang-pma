@@ -13,7 +13,7 @@ A long list of nouns to be revised.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/stems/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/stems/nouns.lexc)</small>
 
 ---
 
