@@ -1,6 +1,10 @@
-# Paamese description 
+# Paamese language model documentation
 
-All documents in one file
+All doc-comment documentation in one large file.
+
+---
+
+# src-fst-morphology-affixes-adjectives.lexc.md 
 
 Adjective inflection
 The Paamese language adjectives compare.
@@ -10,6 +14,8 @@ The Paamese language adjectives compare.
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/affixes/adjectives.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-nouns.lexc.md 
 
 # Noun inflection
 So far only px suffixes have been added.
@@ -32,6 +38,8 @@ LEXICON px gives the suffixes from the Wikipedia article.
 
 ---
 
+# src-fst-morphology-affixes-propernouns.lexc.md 
+
 # Proper noun inflection
 Nothing done so far.
 
@@ -40,6 +48,8 @@ Nothing done so far.
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-symbols.lexc.md 
 
 
 # Symbol affixes
@@ -51,6 +61,8 @@ Nothing has been done here so far.
 
 ---
 
+# src-fst-morphology-affixes-verbs.lexc.md 
+
 # Paamese verb inflection
 Nothing has been done so far.
 
@@ -59,6 +71,8 @@ Nothing has been done so far.
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
+
+# src-fst-morphology-phonology.twolc.md 
 
 # The Paamese morphophonological/twolc rules file 
 
@@ -141,6 +155,8 @@ We should consider %< instead of %> (for prefixes)
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
+
+# src-fst-morphology-root.lexc.md 
 
 
 # Paamese morphological analyser                      
@@ -234,6 +250,8 @@ word classes, or optionally from prefixes:
 
 ---
 
+# src-fst-morphology-stems-adjectives.lexc.md 
+
 # Adjective stemss
 Nothing done so far.
 
@@ -242,6 +260,8 @@ Nothing done so far.
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/adjectives.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/stems/adjectives.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-nouns.lexc.md 
 
 # Noun stems
 Only a handful of words so far.
@@ -262,6 +282,8 @@ A long list of nouns to be revised.
 
 ---
 
+# src-fst-morphology-stems-numerals.lexc.md 
+
 Numerals
 Numerals in the Paamese language are numbers.
 
@@ -270,6 +292,8 @@ Numerals in the Paamese language are numbers.
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-prefixes.lexc.md 
 
 # Prefixes
 Prefixes in the Paamese language are bound to beginning of other words.
@@ -285,6 +309,8 @@ I am not sure why we have ni+ at the beginning? (Simon)
 
 ---
 
+# src-fst-morphology-stems-pronouns.lexc.md 
+
 Pronouns
 Pronouns in the Paamese language are references to things.
 
@@ -294,6 +320,8 @@ Pronouns in the Paamese language are references to things.
 
 ---
 
+# src-fst-morphology-stems-verbs.lexc.md 
+
 Verbs
 Verbs in the Paamese language are actions.
 
@@ -302,6 +330,8 @@ Verbs in the Paamese language are actions.
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/stems/verbs.lexc)</small>
 
 ---
+
+# src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -470,6 +500,8 @@ retracted tongue root			_q
 
 ---
 
+# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+
 
 
 We describe here how abbreviations are in Paamese are read out, e.g.
@@ -490,6 +522,8 @@ For example:
 
 ---
 
+# src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.md 
+
 
 
 % komma% :,      Root ;
@@ -503,6 +537,8 @@ For example:
 <small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-pma/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
+
+# tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 #  Paamese  G R A M M A R   C H E C K E R
@@ -801,7 +837,14 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-pma/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for pma
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-pma/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+
+# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+
+# Tokeniser for pma
 
 Usage:
 ```
@@ -863,6 +906,8 @@ Finally we mark as a token any sequence making up a:
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-pma/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
 
 ---
+
+# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
 # Grammar checker tokenisation for pma
 
@@ -927,6 +972,8 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
+# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+
 # TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
@@ -988,6 +1035,3 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/giellalt/lang-pma/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
-
----
-

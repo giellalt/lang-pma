@@ -77,6 +77,3 @@ We should consider %< instead of %> (for prefixes)
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-pma/blob/main/src/fst/morphology/phonology.twolc)</small>
-
----
-
