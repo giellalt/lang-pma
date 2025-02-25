@@ -8,6 +8,8 @@
 
 This page documents the work on the **Paamese language model**. 
 
+Paamese is an Austronesian language of Vanuatu.
+
 # Project documentation
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
