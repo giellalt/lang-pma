@@ -24,7 +24,7 @@ version = "0.1.0"
 name = "Paamese"
 version = "0.1.0"
 
-[package.tts-text-proc]
+[package.tts-textproc]
 name = "Paamese"
 version = "0.1.0"
 
