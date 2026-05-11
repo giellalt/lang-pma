@@ -3,7 +3,7 @@
     "generator": "@abs_builddir@/../../generator-gt-norm.hfstol",
     "nouns": {
         "lexcfile": "@abs_srcdir@/../stems/nouns.lexc",
-        "lemmatags": ["+N+Sg+Nom", "+N+Pl+Nom"]
+        "lemmatags": ["+N"]
     },
     "adjectives": {
         "lexcfile": "@abs_srcdir@/../stems/adjectives.lexc",
@@ -15,6 +15,6 @@
     },
     "verbs": {
         "lexcfile": "@abs_srcdir@/../stems/verbs.lexc",
-        "lemmatags": ["+V+Inf"]
+        "lemmatags": ["+V"]
     }
 }
