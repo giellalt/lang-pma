@@ -28,13 +28,6 @@ Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-pma)
 for the Paamese language by using the [Divvun Installer](http://divvun.no)
 (some languages are only available via the nightly channel).
 
-Spell-checker accuracy:
-
-[![Speller
-Accuracy](https://img.shields.io/badge/Speller_Accuracy-XX_%25-green.svg)](https://giellalt.github.io/lang-pma/speller-report.html)
-[![Spell-checking accuracy development
-graph](https://giellalt.github.io/lang-pma/speller-report.svg)](https://giellalt.github.io/lang-pma/speller-report.svg)
-
 Download and test speller files
 -------------------------------
 
